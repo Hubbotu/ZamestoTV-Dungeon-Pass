@@ -1,0 +1,12 @@
+## Interface: 110007
+## Title: ZamestoTV: Dungeon Pass
+## Title-ruRU: ZamestoTV: Пропуск в подземелья
+## Notes: Quickly skip all dialogues in dungeons
+## Notes-ruRU: Быстрый пропуск всех диалогов в подземельях
+## Author: ZamestoTV
+## IconTexture: Interface\AddOns\ZamestoTV_AutoS\Icons\goblin
+## Version: 1.2.1
+## SavedVariables: AutoGossipSavedVarson
+
+AutoSelect.lua
+
